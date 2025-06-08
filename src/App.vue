@@ -18,6 +18,7 @@ import HelloWorld from './components/HelloWorld.vue'
   </header>
 
   <RouterView />
+  <script src="../node_modules/flowbite/dist/flowbite.min.js"></script>
 </template>
 
 <style scoped>
